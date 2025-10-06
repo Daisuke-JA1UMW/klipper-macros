@@ -12,6 +12,5 @@ Extension for Klipper 3D Printer Controller
 
 ・Mainsailのコンソールに温度設定方向を絵文字で表示します。
 
-![temp command icon](/images/temp_emoji.png)
-
+<img alt="temp command icon" src="/images/temp_emoji.png" width="320">
 ***

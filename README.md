@@ -2,9 +2,9 @@
 Extension for Klipper 3D Printer Controller
 
 ## temp_margin.cfg
-目的 purpose:
+目的 :
 
-・Klipperの温度待ちコマンド M109 M190 は設定温度ピッタリに一致するまで進行しないため、プリント開始に時間がかかる事がある。
+・Klipperの温度待ちコマンド M109 M190 は設定温度ピッタリに一致するまで進行しないため、プリント開始に時間がかかる事があるため許容範囲を設定する。
 
 機能:
 
